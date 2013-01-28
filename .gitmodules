@@ -1,0 +1,6 @@
+[submodule "include"]
+	path = include
+	url = https://github.com/knote02/newrest.git
+[submodule "path"]
+	path = path
+	url = https://github.com/icefox/git-achievements.git
